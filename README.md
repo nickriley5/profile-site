@@ -1,9 +1,3 @@
 # profile-site
+<link rel="html" href="Myprofile.html">
 
-Hello World!
-
-Another team members changes
-
-i changed this
-
-yup i did that
